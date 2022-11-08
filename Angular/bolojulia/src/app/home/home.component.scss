@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.bolin {
+    font-size: 45px;
+    font-family: 'Poiret One', cursive;
+    display: flex;
+    justify-content: center;
+    color: #0C0B0B;
+}
+
+.imgtxt {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgtxt img {
+    width: 550px;
+    height: 600px;
+}
+
+.txt {
+    width: 445px;
+    height: 550px;
+    font-family: 'Quicksand';
+}
+
+.clube{
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    color: #0C0B0B;
+}
+
+.assinatura{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.txt2{
+    width: 800px;
+    height: 200px;
+    font-family: 'Quicksand';
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+main{
+    max-width: 1440px;
+}
+
+.vnd{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 45px;
+}
+
+.slide img{
+    width: 100%;
+}
+
+.bolos{
+    display: flex;
+    justify-content: space-around;
+}
+.cenoura,
+.fuba,
+.laranja{
+    width: 250px;
+}
+.apv{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 45px;
+}
+.cm{
+    display: flex;
+    justify-content: space-around;
+}
+.clube p{
+    height: 75px;
+    width: 150px;
+}
+.monte p{
+    height: 75px;
+    width: 150px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #AED9E0;
+}
+
+button:hover{
+    background-color: blue;
+}
